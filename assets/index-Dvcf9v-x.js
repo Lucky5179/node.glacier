@@ -114190,7 +114190,7 @@ const b9 = { render: xTe },
   PIe = ["src"],
   OIe = { class: "flex flex-col gap-2" },
   MIe = {
-    href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xcomingsoon",
+    href: "https://app.uniswap.org/swap?inputCurrency=ETH&outputCurrency=0xDAAe70dc84d8845E17e88EA3cA37010f9DC6f0f4",
     target: "_blank",
   },
   $Ie = { key: 0, class: "flex flex-col gap-3" },
